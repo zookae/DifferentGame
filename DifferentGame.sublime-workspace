@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"last",
+				"last_check"
+			],
+			[
+				"feed",
+				"feedparser"
+			],
+			[
+				"th",
+				"thesis"
+			],
+			[
+				"game",
+				"gameID"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"mode",
+				"Model"
+			],
+			[
+				"int",
+				"Integer"
+			],
+			[
+				"uni",
+				"Unicode"
+			],
+			[
+				"primary",
+				"primary_key"
+			],
+			[
+				"Action",
+				"ActionLog"
+			],
+			[
+				"colu",
+				"Column"
+			],
+			[
+				"n",
+				"NONE	Int"
+			],
+			[
+				"flx",
+				"FlxG	flixel"
+			],
+			[
+				"pl",
+				"play(...)	flixel.system.FlxSound"
+			],
+			[
+				"_btn",
+				"_btnBack	var"
+			],
+			[
+				"_b",
+				"_btnVolumeDown	var"
+			],
+			[
+				"fl",
+				"FlxG"
+			],
+			[
+				"get",
+				"getMidpoint(...)	flixel.util.FlxPoint"
+			],
+			[
+				"_grp",
+				"_grpEnemies	var"
+			],
+			[
+				"moveTow",
+				"moveTowardsPoint(...)	Void"
+			],
+			[
+				"_gr",
+				"_grpEnemies	var"
+			],
+			[
+				"Flxty",
+				"FlxTypedGroup	flixel.group"
+			],
+			[
+				"circ",
+				"circOut( t : Float )	Float"
+			],
+			[
+				"FlxTyp",
+				"FlxTypedGroup	flixel.group"
+			],
+			[
+				"St",
+				"STYLE_TOPDOWN	Int"
+			],
+			[
+				"fol",
+				"follow(...)	Void"
+			],
+			[
+				"par",
+				"parseInt( x : String )	Null<Int>"
+			],
+			[
+				"set",
+				"setTileProperties(...)	Void"
+			],
+			[
+				"_m",
+				"_mWalls	var"
+			],
+			[
+				"up",
+				"UP"
+			],
+			[
+				"r",
+				"RIGHT"
+			],
+			[
+				"flxco",
+				"FlxColor	class"
+			],
+			[
+				"Flxcol",
+				"FlxColor	flixel.util"
+			],
+			[
+				"des",
+				"FlxDestroyUtil	class"
+			],
+			[
+				"Flxspr",
+				"FlxSpriteUtil	class"
+			],
+			[
+				"Flxt",
+				"FlxText	flixel.text"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ha",
+				"Haxe: Run build"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Add Repository"
+			],
+			[
+				"pacakge",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexzook/prog_proj/DifferentGame/source/Main.hx",
+		"/Users/alexzook/prog_proj/DifferentGame/source/MenuState.hx",
+		"/Users/alexzook/prog_proj/DifferentGame/source/PlayState.hx",
+		"/usr/lib/haxe/std/flash/system/ApplicationInstaller.hx",
+		"/Users/alexzook/Dropbox/job/academia/bio_and_abstract.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/utah.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/alberta/university_alberta.txt",
+		"/Users/alexzook/Dropbox/presentations/job talks/alberta/discovery_outline.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/vt/vt_offer.txt",
+		"/Users/alexzook/Dropbox/website/aijam_rss.py",
+		"/Users/alexzook/Google Drive/notes/conversations/siu.txt",
+		"/Users/alexzook/Google Drive/notes/blog/prePOST-bogost_videogame_characters.txt",
+		"/Users/alexzook/Dropbox/job/academia/application_notes.txt",
+		"/Users/alexzook/Google Drive/notes/podcasts/idle_thumbs.txt",
+		"/Users/alexzook/Google Drive/notes/misc_notes/ideas/links_3.18.txt",
+		"/Users/alexzook/Desktop/pokemon_shuffle.py",
+		"/Users/alexzook/Dropbox/quotes.txt",
+		"/Users/alexzook/Google Drive/notes/conversations/butler.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/vt/VT_visit_notes.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/vt/virginia_tech.txt",
+		"/Users/alexzook/Google Drive/notes/events/hackademics",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/data/test_minion1.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/data/test_minion2.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/data/test_minion3.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/data/test_minion4.xml",
+		"/Users/alexzook/Google Drive/notes/events/gdc2015",
+		"/Users/alexzook/Dropbox/website/raigj_www/index.html",
+		"/Users/alexzook/Dropbox/job/academia/places/ncsu.txt",
+		"/Users/alexzook/Google Drive/notes/podcasts/crate_and_crowbar.txt",
+		"/Users/alexzook/Dropbox/forms/2014/EXAG 2014/raigj_www/materials.txt",
+		"/Users/alexzook/papers/mcts_tmp/fdg15_mcts_tool.tex",
+		"/Users/alexzook/papers/latex/lib.bib",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - MCTS design sim/data/chain_play.txt",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - MCTS design sim/cardonomicon_results.txt",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - MCTS design sim/data/chain_abl.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/university_alberta.txt",
+		"/Users/alexzook/Dropbox/coding/r_oneoffs/cardname.csv",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/data/minion.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/server/server_flask.py",
+		"/Users/alexzook/Google Drive/notes/podcasts/sup_holmes.txt",
+		"/Users/alexzook/chain_play.txt",
+		"/Users/alexzook/Google Drive/notes/dagstuhl2015_notes.txt",
+		"/Users/alexzook/Dropbox/job/academia/places/falmouth.txt",
+		"/Users/alexzook/papers/job_materials/schools/ncsu/ncsu-talk_outline.txt",
+		"/Users/alexzook/Dropbox/job/application_notes.txt",
+		"/Users/alexzook/papers/mcts_analyze/outline.txt",
+		"/Users/alexzook/Dropbox/job/academia/phone_interview.txt",
+		"/Users/alexzook/Dropbox/coding/unity_use.txt",
+		"/Users/alexzook/prog_proj/Cardonomicon/unity/Assets/Components/FlaskConnect.cs",
+		"/Users/alexzook/prog_proj/Cardonomicon/unity/Assets/Resources/minion.xml",
+		"/Users/alexzook/Dropbox/job/academia/job_talk.txt",
+		"/Users/alexzook/prog_proj/whatdidyoudo/whatdidyoudo.pde",
+		"/Users/alexzook/prog_proj/whatdidyoudo/Agent.pde",
+		"/Users/alexzook/prog_proj/whatdidyoudo/branches/Gcp_ShowDevices/details.txt",
+		"/Users/alexzook/Dropbox/coding/twitter_bot.txt",
+		"/Users/alexzook/Downloads/twitter_testscript.py",
+		"/Users/alexzook/prog_proj/whatdidyoudo/Action.java",
+		"/Users/alexzook/prog_proj/flask_server/flask_cardonomicon_requests.py",
+		"/Users/alexzook/papers/mcts-believable/outline.txt",
+		"/Users/alexzook/Downloads/index.html",
+		"/Users/alexzook/Dropbox/forms/2015/dagstuhl/information.txt",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/GameState.cs",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - gwap design/outline discussion notes.txt",
+		"/Users/alexzook/Desktop/fdg2015_mcts-believable_outline.txt",
+		"/Users/alexzook/prog_proj/flask_server/flask_cardonomicon.py",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/ActionLog.cs",
+		"/Users/alexzook/prog_proj/Cardonomicon/unity/Assets/Components/TestWWW.cs",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/Player.cs",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - gwap design/notes.txt",
+		"/Users/alexzook/Google Drive/games group/fdg2015 - gwap design/notes.org",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGameSimulation/Main.cs",
+		"/Users/alexzook/Dropbox/job/reference_status.txt",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/Minion.cs",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/MCTS/MCTS.csproj",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/DataStructures/DataStructures.csproj",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGameSimulation/CardGameSimulation.csproj",
+		"/Users/alexzook/prog_proj/Cardonomicon/library/CardGame/CardGame.csproj",
+		"/Users/alexzook/papers/job_materials/schools/ucsc_cm/ucsc_cm-cover_letter.tex",
+		"/Users/alexzook/Dropbox/data_viz.txt",
+		"/Users/alexzook/Google Drive/nsf_proposal/nsf_proposal_notes.txt",
+		"/Users/alexzook/Dropbox/quotes (flyingmonkey's conflicted copy 2014-12-29).txt",
+		"/Users/alexzook/Downloads/citations.bib",
+		"/Users/alexzook/Dropbox/proposal/committee/card_game_questions.txt",
+		"/Users/alexzook/Dropbox/job/academia/diversity_notes.txt",
+		"/Users/alexzook/Google Drive/nsf_proposal/notes.txt",
+		"/Users/alexzook/Dropbox/ga_car.txt",
+		"/Users/alexzook/Dropbox/thesis/data/2014-12-11T09-01-11/0/parse_logAction.csv",
+		"/Users/alexzook/Dropbox/thesis/data/2014-12-11T09-01-11/0parse_logAction.csv",
+		"/Users/alexzook/Dropbox/thesis/data/2014-12-11T09-01-11/test.csv",
+		"/Users/alexzook/papers/job_materials/schools/alberta/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/drexel/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/rit/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/simon_frazier/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/uci_cs/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/uci_informatics/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/ucsc_cm/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/uw_hcde/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/virginia/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/gt_cs/cover_letter.tex",
+		"/Users/alexzook/papers/job_materials/schools/cornell_cs/cover_letter.tex",
+		"/Users/alexzook/prog_proj/Cardonomicon/CardGame/data/minion.xml",
+		"/Users/alexzook/papers/job_materials/teaching statement/teching statement notes.txt",
+		"/Users/alexzook/papers/job_materials/schools/uci informatics/cover_letter.tex",
+		"/Users/alexzook/Downloads/math/matrix.cpp",
+		"/Users/alexzook/Downloads/panel summary.txt",
+		"/Users/alexzook/Downloads/review1.txt",
+		"/Users/alexzook/Downloads/review2.txt",
+		"/Users/alexzook/Downloads/review3.txt",
+		"/Users/alexzook/Downloads/review4.txt",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-25T13-39-21/0/logOption-0.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-25T11-57-46/0/logOptionCard-0.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-25T11-51-20/0/logOptionCard-0.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-24T14-10-46/0/logMinion-0.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/CardGame/data/test_minion0.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-19T16-15-27/0/logMinion-9.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-19T16-15-27/0/logAction-9.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/CardGame/data/test_minion.xml",
+		"/Users/alexzook/Downloads/review-1874.txt",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-19T12-46-22/0/logMinion-0.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-19T11-11-05/0/logRestriction-1.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-14T08-38-14/test.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/test.xml",
+		"/Users/alexzook/prog_proj/Cardonomicon/test2.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-13T15-39-36/0/logRestriction-1.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-13T15-24-15/0/logRestriction-1.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-13T14-59-36/0/logRestriction-1.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-12T09-03-05/0/logAction-1.xml",
+		"/Users/alexzook/Dropbox/thesis/data/2014-11-12T09-03-05/0/logAction-3.xml"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mie",
+			"		\n		",
+			"\n		",
+			"vanill",
+			"scraf",
+			"pansear",
+			"bear",
+			"cal",
+			"vanil",
+			"Aditya Prakash",
+			"sound",
+			"/\n",
+			"head",
+			"===",
+			"=====",
+			"==",
+			"<<",
+			">>",
+			"<<",
+			">>\n<<",
+			"Cardonomicon",
+			"Scrabble",
+			"id>13",
+			"id>3",
+			"id>1",
+			"w",
+			"m",
+			"mur",
+			"Murloc",
+			"murloc",
+			", ",
+			"nc stat",
+			"defias",
+			"moveList",
+			"Move",
+			"movesPlay",
+			"move",
+			"endturn",
+			"setup",
+			"Brian",
+			"brian",
+			"mark riedl",
+			"UW",
+			"institute",
+			"georgia",
+			"simon frazi",
+			"cra",
+			"blood imp",
+			"angry",
+			"abusive",
+			"blood imp",
+			"abusi",
+			"si:7",
+			"id>4",
+			"ABILITY",
+			"\\+\\+",
+			"++",
+			"ROLL OUT",
+			"roll out",
+			", ",
+			"ability_Ct",
+			"<stat2>ATTACK</stat2>",
+			"<stat1>HEALTH</stat1>",
+			"\n          <stat1>HEALTH</stat1>\n          <stat2>ATTACK</stat2>\n      <changeStat>HEALTH</changeStat>\n      <changeComp>ADD</changeComp>\n      <changeValue>-1</changeValue>",
+			"\n      <changeStat>HEALTH</changeStat>\n      <changeComp>ADD</changeComp>\n      <changeValue>-1</changeValue>",
+			"Precondition",
+			"precondition",
+			"Precondition",
+			"Planop\nPrecondition",
+			"\n    <ability xsi:nil=\"true\" />",
+			"goblin",
+			"golbin",
+			"eye",
+			"crush",
+			"recy",
+			"<!--",
+			"ball",
+			"haunted",
+			"dizz",
+			"bottom",
+			"succu",
+			"golem",
+			"gob",
+			"minotaur",
+			"dragon",
+			"centi",
+			"MONSTER",
+			"tunnel",
+			"torture",
+			"constr",
+			"monstrou",
+			"elf",
+			"kal",
+			"jest",
+			"pugi",
+			"char",
+			"delat",
+			"acac",
+			"ability",
+			"Ability",
+			"<id>3</id>",
+			"<id>3",
+			"Ability>3",
+			"Ability",
+			"<Card>",
+			"<Card><id>",
+			"id>9",
+			"id>8",
+			"id>7",
+			"id>6",
+			"id>5",
+			"id>4",
+			"id>3",
+			"id>6",
+			"id>",
+			"id>4",
+			"id>2",
+			"<id>2\n<id>2",
+			"<id>3",
+			"<Ability",
+			"<Card",
+			"Card",
+			"enemyAttack",
+			"destroy",
+			"pokemon",
+			"?\"))"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"<stat2>HEALTH</stat2>",
+			"\n      <effect>\n        <Planop>\n          <stat1>HEALTH</stat1>\n          <stat2>ATTACK</stat2>\n          <comp>SUBTRACT</comp>\n          <constant xsi:nil=\"true\" />\n        </Planop>\n      </effect>",
+			"Planop",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}
